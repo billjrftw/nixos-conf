@@ -1,4 +1,4 @@
 # nixos-conf
 My laptop nixos configuration files
 
-ASAP my nvim confs
+NixOS com cinnamon DE.
